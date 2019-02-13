@@ -1,2 +1,3 @@
 # CSC361
-Computer Network and Communication
+Computer Communication and Networks at the University of Victoria.
+Topics include:
