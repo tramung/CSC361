@@ -1,5 +1,5 @@
 # CSC361
-Computer Communications and Networks at the University of Victoria.
+Computer Communications and Networks at the University of Victoria. <br>
 This course is an introduction to data communication networks and the design and architecture of TCP/IP protocol stack. Topics include:
 * Internet architecture
 * Layered network architectures, services and protocols
